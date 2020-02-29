@@ -4,10 +4,10 @@
       <div class="carousel-inner">
         <div class="carousel-item active">
           <div class="carousel-overlay"></div>
-          <img class="carousel-img" src="../assets/images/slider-2.jpg" alt="First slide" />
+          <img class="carousel-img" src="../assets/images/convio1.jpg" alt="First slide" />
           <div class="carousel-caption">
-             <h5 class="animated slideInDown animate3d">Reliable and Flexible Logistics</h5>
-            <h2 class="animated bounceIn animate3d">Personalized cargo services in worldwide commerce</h2>
+             <!-- <h5 class="animated slideInDown animate3d">Reliable and Flexible Logistics</h5>
+            <h2 class="animated bounceIn animate3d">Personalized cargo services in worldwide commerce</h2> -->
             <!-- <router-link to="/products" class="carousel-btn animated zoomIn animate3d">See Products</router-link> -->
           </div>
         </div>
@@ -76,7 +76,7 @@ export default {
     left: 0;
     width: 100%;
     height: 100%;
-    background: rgba(0, 0, 0, 0.8);
+    background: rgba(0, 0, 0, 0.5);
   }
   .carousel-img {
     width: auto;
