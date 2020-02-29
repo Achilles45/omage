@@ -79,7 +79,7 @@ export default {
     background: rgba(0, 0, 0, 0.5);
   }
   .carousel-img {
-    width: auto;
+    width: 100vw;
     height: 82vh;
     display: block !important;
     width: 100vw;

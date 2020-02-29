@@ -103,6 +103,10 @@ export default {
     display: block !important;
     cursor: pointer;
   }
+  .logo__img {
+    max-width: 80px !important;
+    height: auto;
+  }
   ul {
     background: #000;
     flex-direction: column;
