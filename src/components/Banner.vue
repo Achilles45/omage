@@ -82,7 +82,8 @@ export default {
     width: 100vw;
     height: 82vh;
     display: block !important;
-    width: 100vw;
+    background-position: center;
+    background-size: cover;
   }
   .animate3d {
     animation-duration: 5s;
