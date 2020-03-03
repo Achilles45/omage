@@ -4,7 +4,7 @@
           <div class="row">
               <div class="col-12 text-center">
                   <h2>MORE SERVICES</h2>
-                  <P>We offer a wide range of serices to our customers</P>
+                  <P>We offer a wide range of services to our customers</P>
               </div>
           </div>
           <div class="services__wrapper">

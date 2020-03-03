@@ -6,7 +6,7 @@
           <h3>Convio delivery</h3>
           <p>
             The Company was established to cater for domestic and commercial
-            shipping world wide with our headquartered in and Branches all over
+            shipping world wide with our headquarteres in UK and Branches all over
             the world.
           </p> <br>
           <h6>For enquiries, send mails to</h6>

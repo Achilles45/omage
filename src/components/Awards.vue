@@ -5,7 +5,7 @@
               <div class="col-md-3"></div>
               <div class="col-md-6 text-center">
                   <h3>SEE OUR AWARDS AND MENTIONS</h3>
-                  <small>Convio delivery through hard work and excellence has become a reputable logistics company home and abroad and we have een on the media for it.</small>
+                  <small>Conviodelivery through hard work and excellence has become a reputable logistics company home and abroad and we have been on the media for it.</small>
               </div>
                    <div class="col-md-3"></div>
           </div>
@@ -18,7 +18,7 @@
                       </div>
                       <div class="col-md-8 pt-5">
                           <h5>15TH YEARS OF QUALITY SERVICE</h5>
-                          <p>The company was recognize for all her hard work in these past decade and half in providing worl class logistics solution to her customers. As we continue to grow more capacity and experience, we hope to serve you better and better.</p>
+                          <p>The company was recognize for all her hard work in these past decade and half in providing world class logistics solution to her customers. As we continue to grow more capacity and experience, we hope to serve you better and better.</p>
                       </div>
                   </div>
               </div>
