@@ -58,7 +58,7 @@
                   <td>{{ trackedPackage.receiver_name }}</td>
                 </tr>
                 <tr>
-                  <td>SHIPPING ADDRESS</td>
+                  <td>RECEIVER'S ADDRESS</td>
                   <td>{{ trackedPackage.shipping_address }}</td>
                 </tr>
                 <tr>

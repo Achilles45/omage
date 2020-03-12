@@ -60,7 +60,7 @@
                         </div>
                          <div class="col-md-6">
                             <div class="form-group">
-                                <label for="">Shipping Address</label>
+                                <label for="">Reciver's Address</label>
                                 <input type="text" class="form-control" v-model="shipping_address">
                             </div>
                         </div>
