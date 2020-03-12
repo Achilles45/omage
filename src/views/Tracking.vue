@@ -26,7 +26,7 @@
             <table class="table mt-5">
               <tbody>
                 <tr>
-                  <td>DELIVERING STATUS FOR</td>
+                  <td>DELIVERING STATUS</td>
                   <td>{{ trackedPackage.receiver_name }}</td>
                 </tr>
                 <tr>
