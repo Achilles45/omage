@@ -62,11 +62,11 @@
                   <td>{{ trackedPackage.shipping_address }}</td>
                 </tr>
                 <tr>
-                  <td>PRESENT DESTINATION DELIVERING STATUS</td>
+                  <td>PRESENT LOCATION  STATUS</td>
                   <td class="destination">{{ trackedPackage.status }}</td>
                 </tr>
                 <tr>
-                  <td>FINAL DESTINATION DELIVERING DATE</td>
+                  <td>FINAL DELIVERY DATE</td>
                   <td>{{ trackedPackage.delivery_date }}</td>
                 </tr>
                 <tr>
