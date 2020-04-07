@@ -35,7 +35,7 @@
         <div class="row">
           <div class="col-md-6 text">
             <h3>Certification</h3>
-            <p>The company is certified and registered by the Companies Act of England and Wales with registration number: 8818751 to carry out wholesome logitics services that includes but not limited to Ocean freight, Air freight, Warehouing, Ground freight, Last mile delivery among others.</p>
+            <p>The company is certified and incorporated according to section 1115 of the Companies Act of England and Wales with registration number: 8818751 since 2006 as a private limited company to carry out wholesome logitics services that includes but not limited to Ocean freight, Air freight, Warehouing, Ground freight, Last mile delivery among others.<br /><br /> We pride ourselves as a very efficient logistics partner you can trust for all your needs as we continue to serve our customers better.</p>
           </div>
           <div class="col-md-6">
             <img src="../assets/images/certificte.jpg" class="img-fluid certificate" alt="">
