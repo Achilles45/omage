@@ -7,6 +7,7 @@ import Request from '../views/Request'
 import Tracking from '../views/Tracking'
 import Package from '../views/Package'
 import Add from '../views/Add'
+
 Vue.use(VueRouter)
 
 const routes = [
@@ -48,6 +49,7 @@ const routes = [
     name: 'Add',
     component: Add
   },
+ 
 ]
 
 const router = new VueRouter({

@@ -30,6 +30,19 @@
         </div>
       </div>
     </div>
+    <div class="registration">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 text">
+            <h3>Certification</h3>
+            <p>The company is certified and registered by the Companies Act of England and Wales with registration number: 8818751 to carry out wholesome logitics services that includes but not limited to Ocean freight, Air freight, Warehouing, Ground freight, Last mile delivery among others.</p>
+          </div>
+          <div class="col-md-6">
+            <img src="../assets/images/certificte.jpg" class="img-fluid certificate" alt="">
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="vision__wrapper">
       <div class="container">
         <div class="row">
@@ -257,5 +270,28 @@ export default {
       }
     }
   }
+}
+
+.registration{
+  padding: 5rem 0;
+  .text{
+    padding-top: 4rem;
+    h3{
+      font-weight: bold;
+      font-size: 2.2rem;
+      color: #454545;
+      // padding-bottom: 1rem;
+    }
+    p{
+      color:#545454;
+      font-size: .95rem;
+      line-height: 2;
+      padding-top: 1.2rem;
+    }
+  }
+  .certificate{
+  max-width: 300px;
+  height: auto;
+}
 }
 </style>
