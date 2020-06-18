@@ -10,8 +10,7 @@
             the world.
           </p> <br>
           <h6>For enquiries, send mails to</h6>
-          <p>Conviodelivery@aol.com</p>
-          <p>convio.deliverycompany@yahoo.com</p>
+          <p>support@conviodelivery.com</p>
           <h6>You can also contact us at</h6>
           <p>115 Lairg Road, NEWCHURCH, UK</p>
         </div>

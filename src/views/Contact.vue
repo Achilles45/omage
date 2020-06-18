@@ -27,7 +27,7 @@
               </div>
               <div class="details__body">
                 <small>SEND US EMAIL ON</small>
-                <p>conviodelivery@aol.com</p>
+                <p>support@conviodelivery.com</p>
               </div>
             </div>
             <div class="details__card d-flex jusity-content-between">
